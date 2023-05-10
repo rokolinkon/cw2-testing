@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from currency_converter import convert3 as convert # Change this to whichever one you want to test
+from currency_converter import convert1 as convert # Change this to whichever one you want to test
 
 class TestCurrencyConverter(TestCase):
     def test_JPY_1(self):
